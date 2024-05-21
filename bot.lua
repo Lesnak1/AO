@@ -1,4 +1,4 @@
--- Initializing global variables to store the latest game state and game host process.
+-- PID: VZwiXGRxD5SMd9yAdQj2VsQ_PdLXqAH0fhyROcFDoGo
 LatestGameState = {}  -- Stores all game data
 InAction = false     -- Prevents your bot from doing multiple actions
 
